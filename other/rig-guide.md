@@ -6,7 +6,7 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 The rigs were originally build honorary society member [Cooper](https://bsky.app/profile/ministraitor.bsky.social), who maintains documentation on the [parts](https://administraitor.video/rig.html) and [operation](https://administraitor.video/rig_operation.html) of a filming rig. Cooper also maintains a page on the [assembly of a rig](https://administraitor.video/organizers/assembly.html), containing videos on some stages of the process.  This guide is designed to supplement his guide, based on the specific rig used by Hacksoc.
 
 ### Cables
-Figure x - Male end of SDI cable.
+Figure x - Male end of SDI cable.<br>
 <img src="../.gitbook/assets/sdi-male.jpg" width="500"  alt="SDICableMaleEnd"/>
 
 Figure x - Female end of SDI cable.
