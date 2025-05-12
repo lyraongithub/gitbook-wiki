@@ -6,6 +6,14 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 ![SDICableMaleEnd](../../.gitbook/assets/sdi-male.jpg)
 
 ![SDICableFemaleEnd](../../.gitbook/assets/sdi-female.jpg)
+
+## Camera
+
+## Podium
+
+## Rig PC
+![CameraConnectionLocations](/.gitbook/assets/camera-pc-connection.jpg)
+
 ## Packing Up
 ![FirstLayer](../../.gitbook/assets/bag-1.jpg)
 
