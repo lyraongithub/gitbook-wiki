@@ -13,9 +13,9 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 
 ## Rig PC
 
-<img src="/.gitbook/assets/camera-pc-connection.jpg" width="500" />
+<img src="/.gitbook/assets/camera-pc-connection.jpg" width="500"  alt="PCCameraConnections"/>
 
 ## Packing Up
-![FirstLayer](/.gitbook/assets/bag-1.jpg)
+<img src="/.gitbook/assets/bag-1.jpg" width="500" alt="BagFirstLayer"/>
 
-![SecondLayer](/.gitbook/assets/bag-2.jpg)
+<img src="/.gitbook/assets/bag-2.jpg" width="500" alt="BagSecondLayer"/>
