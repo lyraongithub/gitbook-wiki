@@ -3,9 +3,9 @@
 _By_ [_Lyra_](../../../members/members/lyra.md)
 
 ### Cables
-![SDICableMaleEnd](../../.gitbook/assets/sdi-male.jpg)
+![SDICableMaleEnd](/.gitbook/assets/sdi-male.jpg)
 
-![SDICableFemaleEnd](../../.gitbook/assets/sdi-female.jpg)
+![SDICableFemaleEnd](/.gitbook/assets/sdi-female.jpg)
 
 ## Camera
 
@@ -15,6 +15,6 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 ![CameraConnectionLocations](/.gitbook/assets/camera-pc-connection.jpg)
 
 ## Packing Up
-![FirstLayer](../../.gitbook/assets/bag-1.jpg)
+![FirstLayer](/.gitbook/assets/bag-1.jpg)
 
-![SecondLayer](../../.gitbook/assets/bag-2.jpg)
+![SecondLayer](/.gitbook/assets/bag-2.jpg)
