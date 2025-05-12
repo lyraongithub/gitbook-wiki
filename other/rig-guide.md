@@ -9,7 +9,7 @@ The rigs were originally build honorary society member [Cooper](https://bsky.app
 Figure x - Male end of SDI cable.<br>
 <img src="../.gitbook/assets/sdi-male.jpg" width="500"  alt="SDICableMaleEnd"/>
 
-Figure x - Female end of SDI cable.
+Figure x - Female end of SDI cable.<br>
 <img src="../.gitbook/assets/sdi-female.jpg" width="500"  alt="SDICableFemaleEnd"/>
 
 
@@ -19,10 +19,10 @@ Figure x - Female end of SDI cable.
 
 ## PC Connections
 Moving to the PC, SDI cable running from the camera should be connected to the top/right (depending on PC orientation)  input.
-Figure x - Connection of camera cables.
+Figure x - Connection of camera cables.<br>
 <img src="../.gitbook/assets/camera-pc-connection.jpg" width="500"  alt="PCCameraConnections"/>
 
-Figure x - All SDI & power cables connected.
+Figure x - All SDI & power cables connected.<br>
 <img src="../.gitbook/assets/speaker-pc-connection.jpg" width="500"  alt="PCSpeakerConnections"/>
 
 ## Troubleshooting
@@ -33,9 +33,9 @@ Figure x - All SDI & power cables connected.
 The order parts are placed into the toilet bag is personal preference, however this guide describes the way I prefer to pack it.
 
 The bag is essentially packed largest to smallest, with the first parts being the Roland DUO-CAPTURE EX and HDMI-SDI splitter. Places side-by-side, they fit nicely.
-Figure x - First layer of the "toilet bag".
+Figure x - First layer of the "toilet bag".<br>
 <img src="../.gitbook/assets/bag-1.JPG" width="500" alt="BagFirstLayer"/>
 
-Figure x - Second layer of the "toilet bag".
+Figure x - Second layer of the "toilet bag".<br>
 <img src="../.gitbook/assets/bag-2.JPG" width="500" alt="BagSecondLayer"/>
 
