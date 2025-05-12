@@ -12,7 +12,7 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 ## Podium
 
 ## Rig PC
-![CameraConnectionLocations](/.gitbook/assets/camera-pc-connection.jpg)
+![CameraConnectionLocations](/.gitbook/assets/camera-pc-connection.jpg =500x)
 
 ## Packing Up
 ![FirstLayer](/.gitbook/assets/bag-1.jpg)
