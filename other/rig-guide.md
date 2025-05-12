@@ -16,6 +16,6 @@ _By_ [_Lyra_](../../../members/members/lyra.md)
 <img src="/.gitbook/assets/camera-pc-connection.jpg" width="500"  alt="PCCameraConnections"/>
 
 ## Packing Up
-<img src="/.gitbook/assets/bag-1.jpg" width="500" alt="BagFirstLayer"/>
+<img src="/.gitbook/assets/bag-1.JPG" width="500" alt="BagFirstLayer"/>
 
-<img src="/.gitbook/assets/bag-2.jpg" width="500" alt="BagSecondLayer"/>
+<img src="/.gitbook/assets/bag-2.JPG" width="500" alt="BagSecondLayer"/>
