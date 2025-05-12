@@ -3,9 +3,9 @@
 _By_ [_Lyra_](../../../members/members/lyra.md)
 
 ### Cables
-![SDICableMaleEnd](/.gitbook/assets/sdi-male.jpg)
+<img src="/.gitbook/assets/sdi-male.jpg" width="500"  alt="SDICableMaleEnd"/>
 
-![SDICableFemaleEnd](/.gitbook/assets/sdi-female.jpg)
+<img src="/.gitbook/assets/sdi-female.jpg" width="500"  alt="SDICableFemaleEnd"/>
 
 ## Camera
 
